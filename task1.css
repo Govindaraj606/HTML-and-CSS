@@ -1,0 +1,185 @@
+.part1{
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.part2{
+    background-image:url("https://images.pexels.com/photos/23496606/pexels-photo-23496606/free-photo-of-a-man-in-a-red-hat-is-working-on-his-laptop.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 500px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.part2 h1{
+    font-size: 50px;
+    text-align: center;
+    text-align: unset;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.part2 p {
+    font-size: x-large;
+    text-align: unset;
+    color: white;
+    padding-left: 100px;
+}
+
+.form{
+    /* float: right; */
+    width: 250px;
+    padding: 30px;
+    padding-top:0px;
+    box-align: center;
+   background-color: orangered;
+   /* border-radius: 10px; */
+   display: flex;
+   justify-content: right;
+   flex-direction: column;
+   text-align: center;
+   margin-top: 50px;
+
+}
+
+.form h1{
+    color: white;
+}
+.form input{
+    display: block;
+    width: 100%;
+    font-size: 1em;
+    box-shadow: 2px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+
+Button{
+    background-color: rgb(2, 2, 27);
+    width: 100%;
+    padding: 15px 60px;
+    /* border-radius: 8px; */
+    box-shadow: 5px; 
+    color: white;
+    font-size: large;  
+}
+
+.fa-computer{
+    font-size: 100px;
+    color: orangered;
+}
+.fa-bars{
+    font-size: 100px;
+    color: orangered;  
+}
+.fa-database{
+    font-size: 100px;
+    color: orangered;
+}
+
+.part3{
+    background-color: rgb(203, 194, 194);
+    height: 280px;
+    font-size: large;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top:50px ;
+    
+}
+
+.part3,p{
+    text-align:center;
+    color: rgb(5, 5, 6);
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.part4{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.part4 img{
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.part4 h1{
+    padding-left: 50px;
+    color: orangered;
+}
+.part4 p{
+    text-align:unset ;
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+.part5 {
+    text-align: center;
+    background-color: orangered;
+    color:white;
+    height: 250px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.part5 p{
+    color: white;
+    font-size: 18px;
+}
+
+.on{
+    width: 250px;
+    padding-left: 42%;
+}
+.part6{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.part6 img{
+    width: 500px;
+    padding-right: 100px;
+}
+.text h1{
+    padding-left: 50px;
+    color: orangered;
+}
+.text p{
+    text-align:unset ;
+    padding-right: 50px;
+    font-size: 18px; 
+}
+
+.fa-quote-left{
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.part7{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(203, 194, 194);
+    margin-top: 50px;
+    height: 250px;
+    font-size: 18px;
+}
+
+.part8{
+    text-align: center;
+    background-color: orangered;
+    height: 270px;
+    color: white;
+    padding-top: 10px;
+}
+.part8 p{
+    color: white;
+    font-size: 18px;
+}
+
+.btn{
+    width: 250px;
+    padding-left: 42%; 
+}
